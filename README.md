@@ -31,3 +31,6 @@ or <a href="mailto:off.sanyam@gmail.com"><b>email</b></a> me.
 <a href="https://www.instagram.com/sanyam_pandey" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/31cqq4jkqzclixzbeyfg5fwbq7em?si=rkDHG1OWSq24G_fAs2u8Vw&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
+![Metrics](/github-metrics.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img src="/github-metrics.svg" alt="Metrics" width="100%">

@@ -15,7 +15,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/S4ny4m/S4ny4m/tree/main/Issues/new"><b>here</b></a><br>
-or <a href="mailto: off.sanyam@gmail.com"><b>email</b></a> me.
+or <a href="mailto:off.sanyam@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
 

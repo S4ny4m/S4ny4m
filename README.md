@@ -24,5 +24,10 @@ or <a href="mailto:off.sanyam@gmail.com"><b>email</b></a> me.
 <div align="center">
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=S4ny4m&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
-  </div>
+ 
+<i>Follow me around the web:</i><br>
+
+<a href="https://www.linkedin.com/in/pandeysanyam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/sanyam_pandey" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://open.spotify.com/user/31cqq4jkqzclixzbeyfg5fwbq7em?si=rkDHG1OWSq24G_fAs2u8Vw&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+</div>

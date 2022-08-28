@@ -6,7 +6,7 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/LoSEYio" data-context="false" ><a href="//imgur.com/a/LoSEYio"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" alt="Welcome!" width="300"/>
 
 </div>
 

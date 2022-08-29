@@ -32,3 +32,7 @@ or <a href="mailto:off.sanyam@gmail.com"><b>email</b></a> me.
 <a href="https://open.spotify.com/user/31cqq4jkqzclixzbeyfg5fwbq7em?si=rkDHG1OWSq24G_fAs2u8Vw&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pandeysanyam" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pandeysanyam?trk=profile-badge">Sanyam Pandey</a></div>
+              

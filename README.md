@@ -6,7 +6,8 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/S4ny4m/S4ny4m/blob/main/gifs/ezgif.com-gif-maker(1).gif" width="300"/>
+<img src="https://github.com/S4ny4m/S4ny4m/blob/main/gifs/
+WelcomeToSanyam's Github.gif " width="300"/>
 
 </div>
 
